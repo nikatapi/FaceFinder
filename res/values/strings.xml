@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FaceFinder</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="allImages">Display All Images</string>
+    <string name="faceImages">Display Images With Faces!</string>
+    <string name="title_activity_main_gallery">MainGallery</string>
+    <string name="title_activity_face_gallery">FaceGallery</string>
+    <string name="title_activity_view_image">ViewImage</string>
+    <string name="title_activity_face_details">FaceDetails</string>
+
+</resources>
